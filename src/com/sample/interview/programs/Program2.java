@@ -1,5 +1,7 @@
-//today is thursday
-package recursion;
+//Reverse the string
+// Input "today is thursday"
+// Output "yadot si yadsruht"
+package com.sample.interview.programs;
 
 public class Program2 {
     public static void main(String[] args) {

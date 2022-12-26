@@ -1,5 +1,5 @@
 //Difference between static blocks, instance blocks and constructor
-package recursion;
+package com.sample.interview.programs;
 
 public class BlocksJava {
 
