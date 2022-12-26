@@ -1,10 +1,10 @@
 //Armstrong number 371
-package recursion;
+package com.sample.interview.programs;
 
 public class Program4 {
 
     public static void main(String[] args) {
-        int num = 372;
+        int num = 371;
         int temp = 0;
         int sum = 0;
         int num2=num;

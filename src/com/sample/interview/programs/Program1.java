@@ -1,4 +1,4 @@
-//Write a program to find the missing number from the array.
+package com.sample.interview.programs;//Write a program to find the missing number from the array.
 //Eg.
 //input  : 1234678
 //output : 5
